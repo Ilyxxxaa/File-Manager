@@ -1,0 +1,19 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "Task on RSSchool Node JS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilyxxxaa/File-Manager.git"
+  },
+  "author": "Ilya Kotsur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilyxxxaa/File-Manager/issues"
+  },
+  "homepage": "https://github.com/Ilyxxxaa/File-Manager#readme"
+}
